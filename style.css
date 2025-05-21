@@ -45,10 +45,9 @@ a:hover {
   align-items: center;
 }
 
-.logo {
-  font-size: 1.5rem;
-  font-weight: 700;
-  color: #0077cc;
+.logo img {
+  height: 40px;
+  vertical-align: middle;
 }
 
 nav a {
